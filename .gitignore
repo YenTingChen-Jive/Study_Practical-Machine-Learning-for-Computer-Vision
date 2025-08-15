@@ -1,0 +1,4 @@
+# Ignore large checkpoint files
+Keras Tuner Checkpoint/
+*.h5
+*.ckpt
