@@ -2,3 +2,5 @@
 Keras Tuner Checkpoint/
 *.h5
 *.ckpt
+
+flower_images/*.jpg
