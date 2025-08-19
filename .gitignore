@@ -4,4 +4,3 @@ Keras Tuner Checkpoint/
 *.ckpt
 
 TFRecord/
-*
